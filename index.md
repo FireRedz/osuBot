@@ -1,15 +1,15 @@
 ## Bot commands 
 
 
-* **!search** `query`: Search a beatmap on beatconnect and then return the 4 first ranked occurences.
+* **!s / !search** `query`: Search a beatmap on beatconnect and then return the 4 first ranked occurences.
 
-* **!mirror** `mapID`: Send a mirror for a given mapID.
+* **!m / !mirror** `mapID`: Send a mirror for a given mapID.
 
 * `/np` : Give information about map you're listening to.
 
-* **!with** `mods`: Give information about the last map you linked with mods. 
+* **!w / !with** `mods`: Give information about the last map you linked with mods. 
 
-* **!random** ``ranked/mania/taiko``: Gives a random ranked map based on categories.
+* **!r / !random** ``ranked/mania/taiko``: Gives a random ranked map based on categories.
 
 * **!help**: Send a link to this page.
 
